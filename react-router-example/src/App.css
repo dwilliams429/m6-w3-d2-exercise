@@ -1,0 +1,46 @@
+/* Remove CRA defaults completely */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* This creates the large padding area like the screenshot */
+.page-container {
+  padding: 40px 60px;
+}
+
+/* Style the nav links the same way as screenshot */
+.nav a {
+  color: purple;
+  text-decoration: underline;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/* View container spacing */
+.view {
+  margin-top: 40px;
+}
+
+/* Headings */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* List spacing */
+ul {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+}
